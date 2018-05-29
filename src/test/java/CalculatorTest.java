@@ -1,3 +1,4 @@
+import Calculator.Calculator;
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
 import org.junit.Assert;

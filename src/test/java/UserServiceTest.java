@@ -1,7 +1,9 @@
+import MockClasses.SecurityService;
+import MockClasses.User;
+import MockClasses.UserDAO;
+import MockClasses.UserServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
-
-import javax.naming.InitialContext;
 
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;

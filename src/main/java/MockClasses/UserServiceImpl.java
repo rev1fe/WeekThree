@@ -1,3 +1,7 @@
+package MockClasses;
+
+import MockClasses.SecurityService;
+
 public class UserServiceImpl {
 
     private UserDAO userDAO;
